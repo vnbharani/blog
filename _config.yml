@@ -22,7 +22,7 @@ title: Clean Coding Principles
 email: bharani.vempati311@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog talks mostly about clean coding principles.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vnbharani
 
